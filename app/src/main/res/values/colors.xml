@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="roxo">#5E35B1</color>
+    <color name="roxo_escuro">#4527A0</color>
+    <color name="laranja">#FF8F00</color>
+    <color name="erro">#D32F2F</color>
+</resources>
